@@ -1,0 +1,23 @@
+.hero{
+  background-image: url(./assets/heart-526661_640.jpg);
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  align-content: center;
+  color: white;
+}
+.navitems{
+  display: flex;
+  flex-direction: row;
+  column-gap: 60px;
+  height: 40px;
+  padding-top: 30px;
+  background-color: #B7B5BA;
+
+}
+.navitems a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  
+}
